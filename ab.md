@@ -13,3 +13,16 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Micro Projects: 
     - 
+    
+
+- ### Software Proficiencies: 
+    - PYTHON, R, SAS, SQL, IBM Db2, VBA, AMPL, JAVA, C++, MATLAB, MINITAB, SHELL SCRIPTING
+    - IN PROGRESS: Neural Networks, Artificial Intelligence, NoSQL, Hadoop, Data management and revision control using Git
+    
+    
+- ### IBM DIGITAL BADGE FOR DATA SCIENCE PROFESSIONAL DEGREE 
+    -     
+    
+- ### Stanford : Statistical Learning  
+    -     
+    
