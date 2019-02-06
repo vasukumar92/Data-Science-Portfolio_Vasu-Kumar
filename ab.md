@@ -1,9 +1,5 @@
 # VASU KUMAR
 
-## SUMMARY
-
-MS Industrial Engineering with Data Science specialization candidate with over 3 years of academic and professional work experience. Proven experience in delivering machine learning solutions to influence business strategies and organizational goals. Enterprising, effective communication, good people skills, teamwork and collaboration. Seeking summer internship (May-Aug’19) and Co-op (Sept-Dec’19)
-
 ## Data-Science-Portfolio
 
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks files.
@@ -43,9 +39,12 @@ Repository containing portfolio of data science projects completed by me for aca
     
     - **E-Commerce Sales Analytics Visualization [Tableau] :** Performed data organization, advanced visualization, mapping, enterprise dashboards, and data presentation
     
-### Software Proficiencies: 
-    - PYTHON, R, SAS, SQL, IBM Db2, VBA, AMPL, JAVA, C++, MATLAB, MINITAB, SHELL SCRIPTING, Apache Spark
-    - IN PROGRESS: Neural Networks, Artificial Intelligence, NoSQL, Hadoop, Data management and revision control using Git
+### Skills: 
+    - Programming Languages: PYTHON, R, SAS, C++, MATLAB,Minitab, Shell Scripting, Java
+    - Databases: SQL, IBM Db2
+    - OPtimization Problem Solving : AMPL /CPLEX
+    - Machine Learning Skills: Baysian Methods, Support Vector Machines, Regression Models, Graphical Models,Deep Learning, Clusturing, LDA, QDA, Natural Language Processing, Feature Engineering    
+    - IN PROGRESS: Apache Spark, Neural Networks, Artificial Intelligence, NoSQL, Hadoop, Data management and revision control using Git
         
 ### IBM DIGITAL BADGE FOR DATA SCIENCE PROFESSIONAL DEGREE 
 
