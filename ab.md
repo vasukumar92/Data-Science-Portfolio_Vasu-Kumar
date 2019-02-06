@@ -48,11 +48,11 @@ Repository containing portfolio of data science projects completed by me for aca
         
 ### IBM DIGITAL BADGE FOR DATA SCIENCE PROFESSIONAL DEGREE 
 
- - [Data Science Professional Certificate](https://www.youracclaim.com/badges/6036b3d3-7179-49cb-977d-0bff1d71eec9/linked_in)
+ - [IBM Data Science Professional Certificate](https://www.youracclaim.com/badges/6036b3d3-7179-49cb-977d-0bff1d71eec9/linked_in)
 
- - [IBM Databases and SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/5ZUCBSV8MTUY)
+ - [Databases and SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/5ZUCBSV8MTUY)
  
- -  [Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/9F9333ZFFZS8)
+ - [Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/9F9333ZFFZS8)
 
  - [Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/MBSRXL7HPYZK)
 
