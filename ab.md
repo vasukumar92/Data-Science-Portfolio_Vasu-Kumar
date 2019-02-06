@@ -44,7 +44,7 @@ Repository containing portfolio of data science projects completed by me for aca
     - Databases: SQL, IBM Db2
     - OPtimization Problem Solving : AMPL /CPLEX
     - Machine Learning Skills: Baysian Methods, Support Vector Machines, Regression Models, Graphical Models,Deep Learning, Clusturing, LDA, QDA, Natural Language Processing, Feature Engineering    
-    - IN PROGRESS: Apache Spark, Neural Networks, Artificial Intelligence, NoSQL, Hadoop, Data management and revision control using Git
+    - Learning In Progress: Apache Spark, Neural Networks, Artificial Intelligence, NoSQL, Hadoop, Data management and revision control using Git
         
 ### IBM DIGITAL BADGE FOR DATA SCIENCE PROFESSIONAL DEGREE 
 
