@@ -11,6 +11,8 @@ Repository containing portfolio of data science projects completed by me for aca
 ## Projects: 
 - **Machine Learning**
 
+    - [Prediction Analysis of Risky Credit for a credit card company using Neural Networks and Random Forests](https://github.com/vasukumar92/Prediction-Analysis-of-Risky-Credit-ANN-RF-DT-/blob/master/Credit%20History%20_Risk%20(1).ipynb) : Developed a model to determine the credit risk for a customer based on the attributes. Performed data imputations using one-hotmethod. The Random Forest model results the accruacy of 78%, Recall of 93.24%, precision of 80.23% and F1 score of 86.25%. The training model for Random forest however shows 95.71% Accuracy, which shows overfitting of curve. Hence we rely on neural network with Neural Netwrork - 6,5.  
+
     - [Recommender system for Groceries Contractor](https://github.com/vasukumar92/Recommender-System-for-Groceries-Contractor/blob/master/Groceries%20Recommender%20System%20(1).ipynb) : Determined the highest restaurant-joints cluster center (at Agincourt) for the groceries contractor in one of the boroughs of Toronto (Scarborough). Produced folium maps visualization
 
     - [Loan Default predictive modelling for a customer of a Multinational Bank](https://github.com/vasukumar92/Loan-Default-Prediction/blob/master/Loan%20Default%20Classifier.ipynb) : A classification model to accurately detect if a customer is goign to default the loan/ credit payments. The goal is to understand the important factors affecting the loan status and building an optimized classification model. I have used kNN, SVM, Decision Tree and Logistic regression algorithm.
