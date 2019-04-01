@@ -11,6 +11,8 @@ Repository containing portfolio of data science projects completed by me for aca
 ## Projects: 
 - **Machine Learning**
 
+     - [Natural Language Processing using NLTK on eBooks](https://github.com/vasukumar92/Natural-Language-Processing-using-NLTK-on-eBooks/blob/master/NLTK_Books.ipynb) : There are 8 different text files of ebooks which are available freely on http://www.gutenberg.org/ . Steps Performed: Importing of text files to python, Text Parsing and transformation operations are performed such as lower case conversion, removal of special characters, contraction words, tokenizing etc., Tagging parts of speech to each term, Stemming terms to get their root word, Stop Word Removal. The project also shows the difference in the outcome when POS Tagging, Stop Word Removal and Stemming operations are not performed.
+
     - [Prediction Analysis of Risky Credit for a credit card company using Neural Networks and Random Forests](https://github.com/vasukumar92/Prediction-Analysis-of-Risky-Credit-ANN-RF-DT-/blob/master/Credit%20History%20_Risk%20(1).ipynb) : Developed a model to determine the credit risk for a customer based on the attributes. Performed data imputations using one-hotmethod. The Random Forest model results the accruacy of 78%, Recall of 93.24%, precision of 80.23% and F1 score of 86.25%. The training model for Random forest however shows 95.71% Accuracy, which shows overfitting of curve. Hence we rely on neural network with Neural Netwrork - 6,5.  
 
     - [Recommender system for Groceries Contractor](https://github.com/vasukumar92/Recommender-System-for-Groceries-Contractor/blob/master/Groceries%20Recommender%20System%20(1).ipynb) : Determined the highest restaurant-joints cluster center (at Agincourt) for the groceries contractor in one of the boroughs of Toronto (Scarborough). Produced folium maps visualization
@@ -35,6 +37,9 @@ Repository containing portfolio of data science projects completed by me for aca
      - [Advanced Visualizations for Immigration Data and Novel](https://github.com/vasukumar92/Advanced-Data-Visualizations---Immigration-Data-and-Novel/blob/master/Advanced%20Visual%20Analytics%20-%20Immigration%20Data%20and%20Novel.ipynb) : The objective of the project is the exploration of datasets, Visualizing Data (Waffle Charts, Word Clouds, Regression Plots). Assessment of Denmark, Sweden and Norway for total immigration is shown via waffle plot. The project shows the word cloud along with masking with frequenct words occerence (excluding non important words). Also, the majority of the people who immigrated came from one of 15 countries that are displayed by the word cloud. The regression plots discusses the immigration pattern over the years.    
     
 - **Micro Projects**
+   
+   - **[AI Chatbot Developement :](https://www.youracclaim.com/badges/687770ea-aaa9-4b08-9b93-74342b231b73/linked_in_profile)** The badge earner has demonstrated an understanding of the creation of Chatbots by leveraging Watson Conversation and their deployment on WordPress.
+
     - **Phase 1 Analysis of Multivariate Quality Control Data for an Industrial Forging Process :** Estimated distribution parameters from within control data point to use it as monitoring scheme for future quality control missions (Phase 2 Analysis).
     
     - **Prediction of Network Intrusion detection by analyzing the TCP/IP dump :** Achieved 75% accuracy with the Random Forest/ Decision Tree model. Analyzed 25193 records along with data cleaning and feature selection of TCP/IP Dump data
