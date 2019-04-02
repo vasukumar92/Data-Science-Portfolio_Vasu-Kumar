@@ -38,7 +38,7 @@ Repository containing portfolio of data science projects completed by me for aca
     
 - **Micro Projects**
    
-   - **[AI Chatbot Developement :](https://www.youracclaim.com/badges/687770ea-aaa9-4b08-9b93-74342b231b73/linked_in_profile)** The badge earner has demonstrated an understanding of the creation of Chatbots by leveraging Watson Conversation and their deployment on WordPress.
+   - **[AI Chatbot Developement :](https://vasukumar.intelaedu.com/)** The badge earner has demonstrated an understanding of the creation of Chatbots by leveraging Watson Conversation and their deployment on WordPress.
 
     - **Phase 1 Analysis of Multivariate Quality Control Data for an Industrial Forging Process :** Estimated distribution parameters from within control data point to use it as monitoring scheme for future quality control missions (Phase 2 Analysis).
     
@@ -65,6 +65,9 @@ Repository containing portfolio of data science projects completed by me for aca
 
  - [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/3YZ6EX5Q2QMH)
     
+### AI Chatbot Developement
+ - [Build Your Own Chatbot by IBM](https://www.youracclaim.com/badges/687770ea-aaa9-4b08-9b93-74342b231b73/linked_in_profile)
+ 
 ### Stanford : 
 
  - [Statistical Learning](https://verify.lagunita.stanford.edu/SOA/bef05e882c8947549c075d3783bb6a32/)
