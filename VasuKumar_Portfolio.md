@@ -49,8 +49,8 @@ Repository containing portfolio of data science projects completed by me for aca
 ### Skills: 
     - Programming Languages: PYTHON, R, SAS, C++, MATLAB, Minitab, Shell Scripting, Java
     - Databases: SQL, IBM Db2, NoSQL, Redis
-    - OPtimization Problem Solving : AMPL /CPLEX
-    - Machine Learning Skills: Baysian Methods, Support Vector Machines, Regression Models, Graphical Models,Deep Learning, Clusturing, LDA, QDA, Natural Language Processing, Feature Engineering , Neural Networks   
+    - Optimization Problem Solving : AMPL /CPLEX
+    - Machine Learning Skills: Bayesian Methods, Support Vector Machines, Regression Models, Graphical Models,Deep Learning, Clustering, LDA, QDA, Natural Language Processing, Feature Engineering , Neural Networks   
     - Learning In Progress: Apache Spark, Artificial Intelligence, Hadoop, Data management and revision control using Git
         
 ### IBM DIGITAL BADGE FOR DATA SCIENCE PROFESSIONAL DEGREE 
@@ -65,7 +65,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
  - [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/3YZ6EX5Q2QMH)
     
-### AI Chatbot Developement
+### AI Chatbot Development
  - [Build Your Own Chatbot by IBM](https://www.youracclaim.com/badges/687770ea-aaa9-4b08-9b93-74342b231b73/linked_in_profile)
  
 ### Stanford : 
