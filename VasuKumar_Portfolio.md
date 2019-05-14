@@ -52,7 +52,9 @@ Repository containing portfolio of data science projects completed by me for aca
     - Optimization Problem Solving : AMPL /CPLEX
     - Machine Learning Skills: Bayesian Methods, Support Vector Machines, Regression Models, Graphical Models,Deep Learning, Clustering, LDA, QDA, Natural Language Processing, Feature Engineering , Neural Networks   
     - Learning In Progress: Apache Spark, Artificial Intelligence, Hadoop, Data management and revision control using Git
-        
+
+### Certifications:
+
 ### IBM DIGITAL BADGE FOR DATA SCIENCE PROFESSIONAL DEGREE 
 
  - [IBM Data Science Professional Certificate](https://www.youracclaim.com/badges/6036b3d3-7179-49cb-977d-0bff1d71eec9/linked_in)
