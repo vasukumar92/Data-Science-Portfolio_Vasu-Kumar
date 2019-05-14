@@ -47,11 +47,11 @@ Repository containing portfolio of data science projects completed by me for aca
     - **E-Commerce Sales Analytics Visualization [Tableau] :** Performed data organization, advanced visualization, mapping, enterprise dashboards, and data presentation
     
 ### Skills: 
-    - Programming Languages: PYTHON, R, SAS, C++, MATLAB,Minitab, Shell Scripting, Java
-    - Databases: SQL, IBM Db2
+    - Programming Languages: PYTHON, R, SAS, C++, MATLAB, Minitab, Shell Scripting, Java
+    - Databases: SQL, IBM Db2, NoSQL, Redis
     - OPtimization Problem Solving : AMPL /CPLEX
-    - Machine Learning Skills: Baysian Methods, Support Vector Machines, Regression Models, Graphical Models,Deep Learning, Clusturing, LDA, QDA, Natural Language Processing, Feature Engineering    
-    - Learning In Progress: Apache Spark, Neural Networks, Artificial Intelligence, NoSQL, Hadoop, Data management and revision control using Git
+    - Machine Learning Skills: Baysian Methods, Support Vector Machines, Regression Models, Graphical Models,Deep Learning, Clusturing, LDA, QDA, Natural Language Processing, Feature Engineering , Neural Networks   
+    - Learning In Progress: Apache Spark, Artificial Intelligence, Hadoop, Data management and revision control using Git
         
 ### IBM DIGITAL BADGE FOR DATA SCIENCE PROFESSIONAL DEGREE 
 
