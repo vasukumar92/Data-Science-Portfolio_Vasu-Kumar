@@ -74,6 +74,6 @@ Repository containing portfolio of data science projects completed by me for aca
 
  - [Statistical Learning](https://verify.lagunita.stanford.edu/SOA/bef05e882c8947549c075d3783bb6a32/)
     
- ### [Click here to go to my Google Scholar Profile](https://scholar.google.com/citations?user=KChhjggAAAAJ&hl=en): Citations 31, h-index-4
+ #### [Click here to go to my Google Scholar Profile](https://scholar.google.com/citations?user=KChhjggAAAAJ&hl=en): Citations- 31, h-index-4
  
- ### [Click here to go to my Researchgate Profile](https://www.researchgate.net/profile/Vasu_Kumar2): RG Score- 5.13
+ #### [Click here to go to my Researchgate Profile](https://www.researchgate.net/profile/Vasu_Kumar2): RG Score- 5.13
