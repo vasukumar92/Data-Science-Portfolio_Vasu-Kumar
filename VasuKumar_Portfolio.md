@@ -2,7 +2,11 @@
 
 ## Data-Science-Portfolio
 
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks files.
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. It also includes my skills and my MOOC certificates. This portfolio is updated on the regular basis.
+
+Email: vasukumardce@gmail.com
+
+LinkedIn: linkedin.com/vasukumar92
 
 *Note: Data used in the projects is for demonstration purposes only.
 
@@ -47,11 +51,11 @@ Repository containing portfolio of data science projects completed by me for aca
     - **E-Commerce Sales Analytics Visualization [Tableau] :** Performed data organization, advanced visualization, mapping, enterprise dashboards, and data presentation
     
 ## Skills: 
-    - Programming Languages: PYTHON, R, SAS, C++, MATLAB, Minitab, Shell Scripting, Java
-    - Databases: SQL, IBM Db2, NoSQL, Redis
+    - Programming Languages: PYTHON, R, SAS, C++, MATLAB, Minitab, Shell Scripting, Java, Apache Spark
+    - Databases: mySQL, IBM Db2, NoSQL(Redis, MongoDB), Oracle
     - Optimization Problem Solving : AMPL /CPLEX
-    - Machine Learning Skills: Bayesian Methods, Support Vector Machines, Regression Models, Graphical Models,Deep Learning, Clustering, LDA, QDA, Natural Language Processing, Feature Engineering , Neural Networks   
-    - Learning In Progress: Apache Spark, Artificial Intelligence, Hadoop, Data management and revision control using Git
+    - Tools: Git, AWS, IBM Watson, Hadoop, MapReduce
+    - Machine Learning Skills: Bayesian Methods, Support Vector Machines, Regression Models, Graphical Models,Deep Learning, Clustering, LDA, QDA, Natural Language Processing, Feature Engineering , Neural Networks, Artificial Intelligence,  
 
 ## Certifications:
 
