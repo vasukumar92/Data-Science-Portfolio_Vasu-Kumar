@@ -1,19 +1,39 @@
-# VASU KUMAR
-
-## Data-Science-Portfolio
+## Data-Science-Portfolio-VASU_KUMAR
 
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. It also includes my skills and my MOOC certificates. This portfolio is updated on the regular basis.
 
 Email: vasukumardce@gmail.com
-
 LinkedIn: linkedin.com/vasukumar92
+Website: https://vasukumar6.wixsite.com/mysite
 
 *Note: Data used in the projects is for demonstration purposes only.
 
 ## Contents
 
 ## Projects: 
+
+- **Deep Learning Using Tensorflow and Keras**
+
+     - [Improvise a Jazz Solo with an LSTM Network](https://github.com/vasukumar92/Improvise-a-Jazz-Solo-with-a-LSTM-Network/blob/master/Improvising%20a%20Jazz%20Solo%20with%20a%20LSTM%20Network.ipynb) : This notebook discusses a model that uses an LSTM to generate music. I applied an LSTM to music generation and Generating jazz music was done with deep learning.
+     
+     - [Trigger-Word-Detection-for-a-Laptop-using-Deep-Learning](https://github.com/vasukumar92/Trigger-Word-Detection-for-a-Laptop-using-Deep-Learning/blob/master/Trigger%20Word%20Detection%20using%20Deep%20Learning%20(1).ipynb) : In this notebook, we will construct a speech dataset and implement an algorithm for trigger word detection (sometimes also called keyword detection, or wakeword detection). Trigger word detection is the technology that allows devices like Amazon Alexa, Google Home, Apple Siri, and Baidu DuerOS to wake up upon hearing a certain word. For this exercise, our trigger word will be "Activate." Every time it hears you say "activate," it will make a "chiming" sound. By the end of this assignment, you will be able to record a clip of yourself talking, and have the algorithm trigger a chime when it detects you saying "activate."
+
+     - [Autonomous-driving---Car-detection] (https://github.com/vasukumar92/Autonomous-driving---Car-detection/blob/master/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb) : The notebook presents the AI based object detection using the very powerful YOLO model to detect cars, people and other objects. Filtering with a threshold on class scores was done.
+     
+     - [Face-Recognition-for-a-Guest-House](https://github.com/vasukumar92/Face-Recognition-for-a-Guest-House/blob/master/Face%20Recognition%20Model%20for%20a%20House.ipynb): A Face Recognition Siamese Network implemented using Keras. Siamese Network is used for one shot learning which do not require extensive training samples for image recognition.
+     
+     - [Deep-Learning-and-LSTM-Models-for-Delivery-date-and-Cost-Prediction](https://github.com/vasukumar92/Deep-Learning-and-LSTM-Models-for-Delivery-date-and-Cost-Prediction/blob/master/Deep%20Learning%20and%20LSTM%20Models%20for%20Delivery%20date%20and%20Cost%20Prediction%20(1).ipynb) : The objective of the project is to obtain the prediction of delivery date and freight cost based on the historic trend and attributes.The notebook showcases the exploratory data analysis and Deep learning model for delivery date prediction as well as LSTM model for freight cost prediction.
+
+     - [USD-INR-conversion-rate-prediction-Deep-Learning---LSTM-Models](https://github.com/vasukumar92/USD-INR-conversion-rate-prediction-Deep-Learning---LSTM-Models/blob/master/USD%20INR%20conversion%20rate%20prediction%20Deep%20Learning%20-%20LSTM%20Models%20(1).ipynb) : The objective of the python notebook is to present the steps done towards analysing the time series data of USD to INR right from 1980 to 2017. The models presented here are SVR, Deep Learning models, and LSTM Model.
+
+
 - **Machine Learning**
+
+     - [Ensemble-Modeling-Rare-Event-Classification](https://github.com/vasukumar92/Ensemble-Modeling-Rare-Event-Classification/blob/master/Ensemble%20Modelling%20incorporating%20Random%20Undersampling.ipynb) : Rare Event Classification (Ensemble Modelling incorporating Random Under-sampling). The data consists of 10,500 credit applications, each classified as good or bad credit. However, there are only 500 bad credit applications. Since this is less than 5% of the data, classifying applicants as bad credit is referred to as a rare event problem. This is also known as anomaly dete ction in many applications. Approach: The best ratio is discovered by trying ratios between 50:50 to 85:15. Build an ensemble model based on the optimum ratio selected. This is done my creating ensemble of trees using the optimum ratio, fitting a model to each, making classification probability predictions for each and then averaging those to get predicted classification probabilities. From that we can calculate the loss totaled over all the trees. The base model is a decision tree with a minimum leaf size is 5, and the minimum split size is 5. The optimum depth for this model is determined by optimizing the F1-score using 10-fold cross-validation.
+     
+     - [Drone-Flight-Data-Anlaysis-and-Flight-Range-Prediciton-using-Neural-Networks](https://github.com/vasukumar92/Drone-Flight-Data-Anlaysis-and-Flight-Range-Prediciton-using-Neural-Networks/blob/master/ZIPLINE.ipynb): Understanding of the flight condition, performance, efficiency is a vital part of a company’s strategy. Analyzing and studying flight details can help a company to direct the use of right type of product at right location/conditions at right time. In this report we would be leveraging Data Analysis techniques to study the flight details, launches, to target the right parts and perform EDA of flight status.
+     
+     - [Machine-Learning-based-Root-cause-analytics-and-prediction](https://github.com/vasukumar92/Machine-Learning-based-Root-cause-analytics-and-prediction/blob/master/Root%20Cause%20Analytics%20and%20Prediction%20(1).ipynb)The objective of the project is to analyse root causes of the late deliveries by a vendor.
 
      - [Natural Language Processing using NLTK on eBooks](https://github.com/vasukumar92/Natural-Language-Processing-using-NLTK-on-eBooks/blob/master/NLTK_Books.ipynb) : There are 8 different text files of ebooks which are available freely on http://www.gutenberg.org/ . Steps Performed: Importing of text files to python, Text Parsing and transformation operations are performed such as lower case conversion, removal of special characters, contraction words, tokenizing etc., Tagging parts of speech to each term, Stemming terms to get their root word, Stop Word Removal. The project also shows the difference in the outcome when POS Tagging, Stop Word Removal and Stemming operations are not performed.
 
