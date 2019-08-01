@@ -79,6 +79,22 @@ Website: https://vasukumar6.wixsite.com/mysite
 
 ## Certifications:
 
+### DeepLearning.ai INSTITUTE: Deep Learning Specialization
+
+ - Deep Neural Networks(IN PROGRESS)
+ - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (IN PROGRESS)
+ - Structuring Machine Learning Projects (IN PROGRESS)
+ - Sequence Models (IN PROGRESS)
+ - Convonutional NeuraL Networks (IN PROGRESS)
+
+### IBM DIGITAL BADGE FOR ADVANCED DATA SCIENCE DEGREE 
+
+ - Fundamentals of Scalable Data Science(IN PROGRESS)
+ - Advanced Machine Learning and Signal Processing (IN PROGRESS)
+ - Applied AI with Deep Learning (IN PROGRESS)
+ - Advanced Data Science Capstone (IN PROGRESS)
+
+
 ### IBM DIGITAL BADGE FOR DATA SCIENCE PROFESSIONAL DEGREE 
 
  - [IBM Data Science Professional Certificate](https://www.youracclaim.com/badges/6036b3d3-7179-49cb-977d-0bff1d71eec9/linked_in)
