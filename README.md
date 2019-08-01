@@ -3,7 +3,9 @@
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. It also includes my skills and my MOOC certificates. This portfolio is updated on the regular basis.
 
 Email: vasukumardce@gmail.com
-LinkedIn: linkedin.com/vasukumar92
+
+LinkedIn: https://www.linkedin.com/in/vasukumar92/
+
 Website: https://vasukumar6.wixsite.com/mysite
 
 *Note: Data used in the projects is for demonstration purposes only.
